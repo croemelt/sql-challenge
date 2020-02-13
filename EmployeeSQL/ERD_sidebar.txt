@@ -23,7 +23,7 @@ to_date DATE
 
 employees
 -
-emp_no INT
+emp_no INT PK
 birth_date DATE
 first_name VARCHAR
 last_name VARCHAR
